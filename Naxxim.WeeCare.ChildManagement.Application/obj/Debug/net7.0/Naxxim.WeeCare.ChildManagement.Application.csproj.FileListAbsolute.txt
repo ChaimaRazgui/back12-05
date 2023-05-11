@@ -1,0 +1,15 @@
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.deps.json
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.AssemblyInfo.cs
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.csproj.CopyComplete
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\refint\Naxxim.WeeCare.ChildManagement.Application.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Application.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Application\obj\Debug\net7.0\ref\Naxxim.WeeCare.ChildManagement.Application.dll

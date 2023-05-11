@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Naxxim.WeeCare.ChildManagement.API.props" />
+</Project>

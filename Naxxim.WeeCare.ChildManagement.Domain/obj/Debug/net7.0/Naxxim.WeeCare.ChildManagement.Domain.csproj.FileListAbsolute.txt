@@ -1,0 +1,12 @@
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.deps.json
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\bin\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.AssemblyInfo.cs
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\refint\Naxxim.WeeCare.ChildManagement.Domain.dll
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\Naxxim.WeeCare.ChildManagement.Domain.pdb
+C:\Users\x\Desktop\Back-again\WeeCare-Back\Naxxim.WeeCare.ChildManagement.Domain\obj\Debug\net7.0\ref\Naxxim.WeeCare.ChildManagement.Domain.dll
